@@ -47,11 +47,11 @@ To set up the project locally, follow these steps:
 
 1. **Clone the repository:**
     ```sh
-    git clone <repository-url>
+    git clone https://github.com/rashidpbi/ScrollAnimation.git
     ```
 2. **Navigate to the project directory:**
     ```sh
-    cd <project-directory>
+    cd ScrollAnimation
     ```
 3. **Open `index.html` in your preferred browser:**
     ```sh
