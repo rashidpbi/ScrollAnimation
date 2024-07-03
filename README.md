@@ -16,12 +16,10 @@ This project is part of an advanced assignment focused on mimicking specific scr
 - **HTML**
 - **CSS**
 - **JavaScript**
-- **Bootstrap**
 - **jQuery**
 - **GSAP (GreenSock Animation Platform)**
 - **ScrollTrigger**
 - **ScrollMagic**
-- **OWL Carousel**
 
 ## Resources
 
